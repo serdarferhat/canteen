@@ -1,0 +1,30 @@
+.nav-link:hover{
+  transform:scale(1.1) ;
+}
+
+.nav-link{
+ color: white;
+}
+.nav-link active{
+  font-size: larger;
+}
+.menu{
+  color: white;
+  font-size: larger;
+  text-decoration: none;
+}
+.cart{
+  width: 75%;
+}
+.bill{
+  width: 25%;
+  border: 1px solid;
+  height:70vh;
+  text-align: center;
+}
+
+/* header */
+
+.most{
+  width: 24rem;
+}
